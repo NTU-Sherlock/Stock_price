@@ -7,5 +7,6 @@
 * 分析外資進場買賣
 
 
-使用FinMind** 是超過 50 種金融開源數據 [50 datasets](https://finmind.github.io/)。
+** 使用FinMind 
+超過 50 種金融開源數據 [50 datasets](https://finmind.github.io/)。
 詳見https://finmind.github.io/tutor/TaiwanMarket/DataList/
